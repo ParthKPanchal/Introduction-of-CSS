@@ -1,18 +1,23 @@
 h1,h2
 {
-    color: blue;
+    color: red;
     border-bottom: 1px solid black;
 }
 
-p
+.blue
 {
-    color: red;
+    color: blue;
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.green
+p.green
 {
     color: green;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.underline
+{
+    text-decoration: underline;
 }
