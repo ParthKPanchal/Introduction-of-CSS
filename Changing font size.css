@@ -1,5 +1,25 @@
-p
+h1
 {
-    font-size: 25px;
+    font-size: 35px;
+}
+
+h2
+{
+    font-size: 28px;
+}
+
+p.para1
+{
+    font-size: 20px;
+}
+
+p.para2
+{
+    font-size: 20px;
+}
+
+p.para3
+{
+    font-size: 20px;
     line-height: 1.5em;
 }
