@@ -1,0 +1,31 @@
+h1
+{
+    background-color: green;
+    color: yellow;
+}
+p
+{
+    background-color: green;
+    color: yellow;
+}
+p.text
+{
+    background-color: green;
+    color: yellow;
+    border: 2px orange solid;
+}
+h2
+{
+    background-color: green;
+    color: yellow;
+}
+div
+{
+    background-color: green;
+    color: yellow;
+}
+img
+{
+    width: 450px;
+    height: 200px;
+}
