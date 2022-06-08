@@ -1,14 +1,33 @@
+body
+{
+    background-color: black;
+    color: white;
+    padding: 0%;
+    margin: 0%;
+    font-size: 25px;
+}
 h1
 {
-    border-bottom: 1px solid black;
+    text-align: center;
+    font-size: 80px;
 }
-
-h2
+p.para1
 {
-    border-bottom: 1px solid black;
+    border: 2px solid white;
 }
-
-p
+p.para2
 {
-    border: 1px solid black;
+    border: 2px dashed white;
+}
+p.para3
+{
+    border: 2px dotted white;
+}
+p.para4
+{
+    border: 2px double white;
+}
+p.para5
+{
+    border: 2px groove white;
 }

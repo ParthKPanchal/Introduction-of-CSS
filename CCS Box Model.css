@@ -11,12 +11,14 @@ h1
 {
     text-decoration: underline;
     font-size: 150;
+    text-align: center;
 }
 
 h2
 {
     text-decoration: underline;
     font-size: 1.2em;
+    text-align: center;
 }
 
 p.para1
@@ -24,21 +26,15 @@ p.para1
     color: blue;
 }
 
-p.para2
+p.paragraph
 {
-   color: purple; 
-}
-
-p.para3
-{
-    color: purple;
+    color: white;
     font-size: 15px;
     line-height: 1.5em;
     background-color: #e5e4d7;
-    padding: 20px;
-    border-color: black;
-    border-width: 2px;
-    border-style: solid;
+    padding: 20px 20px 20px 20px;
+    border: black 2px solid;
+    background-image: url(bg.jpg);
 }
 
 p.para4
@@ -48,9 +44,7 @@ p.para4
     line-height: 1.5em;
     background-color: #e5e4d7;
     padding: 20px;
-    border-color: black;
-    border-width: 2px;
-    border-style: solid;
+    border: black 2px solid;
     margin: 20px;
     margin-top: 50px;
     margin-left: 400px;
@@ -63,7 +57,5 @@ p.para4
     margin-right: auto;
     padding: 3px;
     background-color: silver;
-    border-color: black;
-    border-width: 2px;
-    border-style: solid;
+    border: 2px black solid;
 }
