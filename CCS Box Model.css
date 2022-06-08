@@ -21,6 +21,12 @@ h2
     text-align: center;
 }
 
+h3
+{
+    color: green;
+    text-decoration: underline;
+}
+
 p.para1
 {
     color: blue;
@@ -59,8 +65,24 @@ p.para4
     background-color: silver;
     border: 2px black solid;
 }
+
 .highlight
 {
     background-color: yellow;
     color: red;
+}
+
+a:link
+{
+    color: blue;
+}
+
+a:visited
+{
+    color: #8c8c9d;
+}
+
+a:hover
+{
+    color: #f15a51;
 }
